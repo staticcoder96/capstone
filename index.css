@@ -1,0 +1,752 @@
+#login{
+   background-image:url("https://www.brisbanekids.com.au/wp-content/uploads/2016/12/1-bigstock-Cinema-concept-Film-reel-pop-146972888.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height:950px;
+}
+
+#message{
+    color: red;
+}
+
+#logoimg{
+    height: 60px;
+    
+}
+
+.nav {
+    background-color:#0e0b16;
+    color: #ffffff;
+    list-style: none;
+    padding-top: 10px;
+    border-radius:5px;
+    height:80px;
+}
+
+.header{
+    text-align:center;
+}
+#animphoto{
+    height:120px;
+    width: 350px;
+    margin-bottom: 50px;
+}
+
+#loginhead{
+    text-shadow: 2px 2px 4px #000000;
+    color:#328cc1;
+}
+.form{
+  padding-top: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 70px;
+  margin-left: 480px;
+  text-align:center;
+  background-color: white;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  -moz-box-shadow: 0 0 20px black;
+  -webkit-box-shadow: 0 0 20px black;
+  box-shadow: 0 0 20px black;
+  width:400px;
+  height: 550px;
+ 
+}
+#logo4{
+    height:200px;
+    width:200px;
+}
+.adminpage{
+    background-image:url("https://www.brisbanekids.com.au/wp-content/uploads/2016/12/1-bigstock-Cinema-concept-Film-reel-pop-146972888.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:950px;
+    padding-top: 30px;
+}
+.regForm{
+  
+  margin-top: 10px;
+  background-color: white;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  Margin-left: 380px;
+  padding: 30px;
+  width: 600px;
+  height:550px;
+  font-size: 1rem;
+  font-family: "Times New Roman";
+  -moz-box-shadow: 0 0 20px black;
+  -webkit-box-shadow: 0 0 20px black;
+  box-shadow: 0 0 20px black;
+}
+
+.instructions{
+    margin-top: 10px;
+  background-color: white;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  Margin-left: 350px;
+  padding: 30px;
+  width: 710px;
+  height:450px;
+  font-size: 1rem;
+  font-family: "Times New Roman";
+  -moz-box-shadow: 0 0 20px black;
+  -webkit-box-shadow: 0 0 20px black;
+  box-shadow: 0 0 20px black;
+}
+#enjoy{
+    margin-left:215px;
+    color:#45a049;
+    font-weight: bold;
+    -webkit-animation: enjoy 5s;
+    -ms-animation: enjoy 5 ;
+     animation: enjoy 5s;
+}
+#nameimg{
+    height:40px;
+    width:200px;
+}
+@-webkit-keyframes enjoy {
+            from {
+               margin-left:100%;
+               width:300%
+            }
+            
+            to {
+               margin-left:0%;
+               width:100%;
+            }
+         }
+.aboutbackground,.instructionpage{
+    background-image:url("https://www.brisbanekids.com.au/wp-content/uploads/2016/12/1-bigstock-Cinema-concept-Film-reel-pop-146972888.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:950px;
+    padding-top: 30px;
+   
+}
+.logopic{
+    width:825px;
+    height:200px;
+    margin-left: 260px;
+    -webkit-animation-duration: 10s;
+    animation-duration: 10s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation: logopic 5s;
+    -ms-animation: logopic 5 ;
+     animation: logopic 5s;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px black;
+    border-radius: 5px;
+}
+@-webkit-keyframes logopic{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+         
+
+
+.aboutpage{
+    background-color: white;
+    height:280px;
+    width:825px;
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-left: 260px;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px black;
+    border-radius: 5px;
+    
+    
+}
+
+label{
+    margin-right: 10px;
+}
+.greeting{
+    color:#328cc1;
+    font-style: italic;
+}   
+#catch{
+    font-style: italic;
+    color:  #45a049;
+    opacity: 0;
+    -webkit-animation: free 18s linear infinite ;
+    -ms-animation: free 18s linear infinite ;
+     animation: free 18s linear infinite ;
+   
+}
+@-webkit-keyframes free {
+    
+    0% { opacity: 1; }
+    20% { opacity: 0; }
+    25% { opacity: 1;}
+    40% { opacity: 1; }
+    40% {font-size:40px;}
+    60% { opacity: 0 ;}
+    70% { opacity: 1;}
+    80% { opacity: 1 ; }
+    90% { opacity: 0 ;}
+    100% { opacity: 1; }
+}
+#signup{
+    color:black;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.uname{
+    margin-right: 55px;
+}
+#repmess{
+    background-color:#1a1a1a;
+    width:93%;
+    margin:5px;
+    
+    padding:20px;
+    
+    border-radius:4px;
+}
+#repmess2{
+    background-color:#1a1a1a;
+    width:93%;
+    margin:5px;
+    
+    padding:20px;
+    
+    border-radius:4px;
+}
+#repmess:hover{
+    background-color:#595959;
+    cursor:pointer;
+}
+.regfree{
+    
+    background-color: #e9eefc;
+    height: 60px;
+    width:600px;
+    margin-left: 380px;
+    padding:10px;
+   
+}
+.instruction,#searchinstruct{
+    color:red;
+    font-size: 15px;
+}
+#instructhead{
+    color:#328cc1;
+    font-style: italic;
+    
+}
+.logo{
+    height:90px;
+    width:250px;
+    margin-bottom: 20px;
+}
+.signupbut{
+    float:right;
+    
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    
+}
+#logout{
+    float:right;
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    margin-left: 20px;
+}
+
+#return{
+    float:right;
+    margin-bottom:50px;
+    margin-right: 25px;
+    margin-top: 40px;
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+}
+.delete{
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    margin-bottom:5px;
+}
+.view{
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    margin-right:5px;
+   
+}
+#loginbutton{
+  font-size: 1.1rem;
+  padding: 10px;
+  margin: 20px 0px;
+  background-color: #328cc1;
+  color: White;
+  border: none;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 5px;
+  width:350px;
+}
+
+#loginbutton:hover {
+  background-color: #45a049;
+  
+}
+
+.reg{
+  
+  padding-left:10px;
+  padding-right: 10px;
+  background-color: #328cc1;
+  color: White;
+  border: none;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 5px;
+  height:30px;
+ 
+}
+.goback{
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+}
+#returntouser{
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    margin-left: 260px;
+}
+#searchbut{
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+}
+#adminuser{
+    margin-left: 950px;
+    padding-top: 18px;
+}
+#repin{
+    border-bottom: solid;
+    margin-top:30px;
+    margin-right: 5px;
+}
+.pageadmin{
+ 
+    background: linear-gradient(to bottom, #000000 0%, #ffffff 100%);
+
+    padding-bottom: 500px;
+    padding-top: 10px;
+    
+}
+#status{
+    float:right;
+    
+}
+.reg:hover {
+    background-color: #45a049;
+}
+.view:hover {
+    background-color: #45a049;
+}
+.delete:hover {
+    background-color: #45a049;
+}
+.signupbut:hover {
+    background-color: #45a049;
+}
+.goback:hover {
+    background-color: #45a049;
+}
+#return:hover {
+    background-color: #45a049;
+}
+#returntouser:hover {
+    background-color: #45a049;
+}
+#logout:hover {
+    background-color: #45a049;
+}
+#searchbut:hover {
+    background-color: #45a049;
+}
+.ratemovie:hover {
+    background-color: #45a049;
+}
+.report:hover {
+    background-color: #45a049;
+}
+#addbut:hover {
+    background-color: #45a049;
+}
+#newuser{
+    float:right;
+    margin-left: 600px;
+    margin-top:18px;
+    
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+input[type=text], select {
+  
+    padding-bottom: 12px;
+    padding-left:10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width:300px;
+    height:40px;
+    font-size: 1rem;
+    font-family: "Times New Roman";
+    
+}
+
+input[type=text]:hover {
+    border: 1px solid #555;
+}
+input[type=password], select {
+  
+    padding-bottom: 12px;
+    padding-left:10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width:300px;
+    height:40px;
+    font-size: 1rem;
+    font-family: "Times New Roman";
+}
+input[type=password]:hover {
+    border: 1px solid #555;
+}
+li {
+    display: inline-block;
+    padding: 0 25px 0 25px;
+}
+#right{
+    
+    float:right;
+    margin-left: 700px;
+    height:500px;
+    margin-top: 18px;
+}
+
+#about,#instruction,#hot,#addmovie{
+     margin-top: 18px;
+}
+li:hover{
+    color: #c1c1c1;
+    cursor: pointer;
+}
+
+#mname:hover{
+    color:#328cc1;
+    text-decoration: underline;
+    cursor: pointer;
+}
+ 
+#displayblock{
+    
+    margin-left: 40px;
+    padding-top:20px;
+    padding-bottom:50px;
+    
+}
+#name4{
+    width: 330px;
+    height:40px;
+    margin-top: 30px;
+}
+#name5{
+    width: 200px;
+    height:30px;
+    margin-top: 30px;
+}
+#indeximg{
+    background-image: url("https://i.pinimg.com/originals/b5/53/d7/b553d7335b89dc36b6d856693498f8a3.jpg" );
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+#userrecommendation{
+    
+    margin-right: 20px;
+    border-radius:4px;
+    padding:10px;
+}
+.movie{
+   border-bottom:1px solid grey; 
+   margin-bottom: 10px;
+   margin-right: 80px;
+}
+
+
+#usermovie{
+	width: 750px;
+	background-color:#1a1a1a;
+    margin-top: 5px;
+    margin-bottom:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:4px;
+    
+}
+  
+
+#reclst{
+    margin-left:20px;
+    margin-right:50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    
+}
+.movierec{
+    border-style: solid;
+    border-color: grey;
+    padding:15px;
+    text-align: center;
+    width:300px;
+}
+#sendreport{
+    margin-top:30px;
+    margin-left:330px;
+    width:750px;
+    padding:20px;
+    background-color: #1a1a1a;
+    border-radius:4px;
+}
+#rep{
+    color:red;
+}
+#line{
+    background-color:white;
+    height:2px;
+    width:800px;
+    margin-bottom:15px;
+}
+
+#movies img, #movie img{
+  width:100%;
+}
+
+@media(min-width:960px){
+  #movies .col-md-3 .well{
+    height: 390px;
+  }
+
+#movies .col-md-3 img{
+   height:240px;
+}
+
+}
+#movie{
+    margin: 15px;
+}
+.popmovies{
+    background-color: white;
+    width:780px;
+    padding-left: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-animation: fade 18s ;
+    -ms-animation: fade 18s ;
+     animation: fade 18s ;
+    
+}
+@-webkit-keyframes fade {
+    
+    0% { opacity: 0; }
+    20% { opacity: 1; }
+    100% { opacity: 1;}
+    
+}
+.popmovies:hover{
+     border: 2px solid gold;
+     cursor: pointer;
+     
+}
+#popmname{
+    color:black;
+    font-size: 30px;
+    font-family:"Times New Roman";
+    
+}
+#numbering{
+    width:20px;
+    font-size: 30px;
+    font-family: "Matura MT Script Capitals";
+}
+
+.popmoviepage{
+    background:url("http://www.curtamais.com.br/uploads/conteudos/a36793c6593a853fb78983eada2c5c8f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom:30px;
+    margin-right:45px;
+    
+    
+}
+#trophy{
+    color:yellow;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+#trendingimg{
+    width:150px;
+    height:80px;
+    margin-bottom:20px;
+}
+.retbut{
+    float:right;
+    height:100px;
+    width:150px;
+}
+#searchmovie{
+    background-color: white;
+    width:500px;
+    margin-left: 425px;
+    margin-top: 30px;
+    padding:20px;
+    margin-bottom: 30px;
+}
+#searchimg{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    
+}
+
+.ratemovie,.report{
+    background-color: #328cc1;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    
+}
+#addbut{
+    background-color: #328cc1;
+    margin-top: 10px;
+    color: White;
+    border: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 5px;
+    height:30px;
+    
+}
+#mov{
+  -moz-box-shadow: 0 0 10px white;
+  -webkit-box-shadow: 0 0 10px white;
+  box-shadow: 0 0 10px white;
+}
+
+.checked {
+    color: orange;
+}
+
+#date{
+    font-size:12px;
+    font-style:italic;
+    color:grey;
+}
+
+#addmovie2{
+    background-image:url("https://s3.amazonaws.com/pbblogassets/uploads/2015/09/Film-Lingo-865x505.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    
+}
+.addmovie3{
+    background-image:url("https://images0.pixlis.com/background-image-horizontal-lines-and-stripes-seamless-tileable-white-black-22hmhj.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom:40px;
+   
+}
+#addmovierating{
+    margin-left:310px;
+    background-color:black;
+    padding:30px;
+    margin-top:10px;
+    width:740px;
+    height:520px;
+   
+    font-weight:bold;
+    filter: alpha(opacity=60);
+    -moz-box-shadow: 0 0 8px black;
+    -webkit-box-shadow: 0 0 8px black;
+    box-shadow: 0 0 8px black;
+}
+
+#reviewlist{
+    background-color:#1a1a1a;
+    padding:10px;
+    border-radius:4px;
+}
+
+#user{
+    text-shadow: 2px 2px 4px #000000;
+    color:#328cc1;
+}
+
+#name{
+    margin-left:10px;
+}
+
